@@ -12,3 +12,8 @@ from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
 
 View it here: [vishakamin.github.io](https://vishakamin.github.io/)
+
+
+#MIT Licensed
+
+You can fork it and create your own version.
