@@ -148,7 +148,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url(../img/heromain.jpg);
+  background-image: url(../img/heromain2.png);
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -287,4 +287,15 @@ header.masthead p {
 .btn-primary:active,
 .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Styles */
+  small-screen {
+    width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }

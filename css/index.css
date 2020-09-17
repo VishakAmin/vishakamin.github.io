@@ -183,3 +183,9 @@ a.text-white-link:active {
   transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s,
     opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s;
 }
+
+@media only screen and (min-width: 600px) {
+  .small-screen {
+    width: 50%;
+  }
+}
